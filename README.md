@@ -30,7 +30,7 @@ Exit
 
 Choose an option (1-7): 6
 FAMILY (1)
-Baasika Almass — +91 98765 43210
+April — +91 98765 43210
 FRIEND (1)
 Priya Sharma — +91 87654 32109
 WORK (1)
